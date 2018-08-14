@@ -30,12 +30,3 @@ li a:hover {
    background-color: #111;
 }
 
-body {
-   background-image: url("https://cdn.pixabay.com/photo/2017/06/13/13/51/white-2398946__340.jpg");
-   background-repeat: no-repeat;
-   background-repeat: repeat-y;
-   background-size: 100%;
-   /*position: absolute;*/
-   /*top: 0;*/
-   /*left: 0;*/
-}
