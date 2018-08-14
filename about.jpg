@@ -1,8 +1,22 @@
 <!DOCTYPE html>
 <html>
-   <body>
-     <center>
-     
+   <title>Elizabeth Collins</title>
+<head>
+<link type="text/css" rel="stylesheet" href="style.css" />
+</head>
+   
+<body>
+   <center>
+<ul>
+  <li><a href ="/index">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/contact">Contact</a></li>
+  <li><a href="https://www.kodewithklossy.com">Kode with Klossy</a></li>
+  <li><a href="/experience">My KWK Experience</a></li>
+</ul>
+   </center>
+
+    <center>
     <h1 style="background-color:DodgerBlue;">Here are a few things about me</h1>
     </center>
 
@@ -37,6 +51,7 @@
        
        
        
-     </center>      
+       </center>      
    </body>
  </html>
+    
