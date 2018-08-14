@@ -30,3 +30,6 @@ li a:hover {
    background-color: #111;
 }
 
+body {
+    background-image: url("background1.jpg");
+}
